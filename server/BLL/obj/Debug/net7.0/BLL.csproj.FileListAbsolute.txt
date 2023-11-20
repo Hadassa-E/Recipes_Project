@@ -1,0 +1,51 @@
+C:\Users\הילה לויטן\Documents\c#\Recipe\BLL\bin\Debug\net7.0\BLL.deps.json
+C:\Users\הילה לויטן\Documents\c#\Recipe\BLL\bin\Debug\net7.0\BLL.dll
+C:\Users\הילה לויטן\Documents\c#\Recipe\BLL\bin\Debug\net7.0\BLL.pdb
+C:\Users\הילה לויטן\Documents\c#\Recipe\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Users\הילה לויטן\Documents\c#\Recipe\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\הילה לויטן\Documents\c#\Recipe\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Users\הילה לויטן\Documents\c#\Recipe\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Users\הילה לויטן\Documents\c#\Recipe\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\הילה לויטן\Documents\c#\Recipe\BLL\obj\Debug\net7.0\BLL.dll
+C:\Users\הילה לויטן\Documents\c#\Recipe\BLL\obj\Debug\net7.0\refint\BLL.dll
+C:\Users\הילה לויטן\Documents\c#\Recipe\BLL\obj\Debug\net7.0\BLL.pdb
+C:\Users\הילה לויטן\Documents\c#\Recipe\BLL\obj\Debug\net7.0\ref\BLL.dll
+C:\Users\הילה לויטן\Documents\c#\Recipe\BLL\bin\Debug\net7.0\DAL.dll
+C:\Users\הילה לויטן\Documents\c#\Recipe\BLL\bin\Debug\net7.0\DTO.dll
+C:\Users\הילה לויטן\Documents\c#\Recipe\BLL\bin\Debug\net7.0\DAL.pdb
+C:\Users\הילה לויטן\Documents\c#\Recipe\BLL\bin\Debug\net7.0\DTO.pdb
+C:\Users\הילה לויטן\Documents\c#\Recipe\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+E:\RecipesProject\BLL\obj\Debug\net7.0\BLL.pdb
+E:\RecipesProject\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+E:\RecipesProject\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\RecipesProject\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+E:\RecipesProject\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+E:\RecipesProject\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+E:\RecipesProject\BLL\bin\Debug\net7.0\BLL.deps.json
+E:\RecipesProject\BLL\bin\Debug\net7.0\BLL.dll
+E:\RecipesProject\BLL\bin\Debug\net7.0\BLL.pdb
+E:\RecipesProject\BLL\obj\Debug\net7.0\BLL.dll
+E:\RecipesProject\BLL\obj\Debug\net7.0\refint\BLL.dll
+E:\RecipesProject\BLL\obj\Debug\net7.0\ref\BLL.dll
+E:\RecipesProject\BLL\bin\Debug\net7.0\DAL.dll
+E:\RecipesProject\BLL\bin\Debug\net7.0\DTO.dll
+E:\RecipesProject\BLL\bin\Debug\net7.0\DAL.pdb
+E:\RecipesProject\BLL\bin\Debug\net7.0\DTO.pdb
+E:\RecipesProject\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+D:\RecipesProject\BLL\bin\Debug\net7.0\BLL.deps.json
+D:\RecipesProject\BLL\bin\Debug\net7.0\BLL.dll
+D:\RecipesProject\BLL\bin\Debug\net7.0\BLL.pdb
+D:\RecipesProject\BLL\bin\Debug\net7.0\DAL.dll
+D:\RecipesProject\BLL\bin\Debug\net7.0\DTO.dll
+D:\RecipesProject\BLL\bin\Debug\net7.0\DAL.pdb
+D:\RecipesProject\BLL\bin\Debug\net7.0\DTO.pdb
+D:\RecipesProject\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+D:\RecipesProject\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\RecipesProject\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+D:\RecipesProject\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+D:\RecipesProject\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+D:\RecipesProject\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+D:\RecipesProject\BLL\obj\Debug\net7.0\BLL.dll
+D:\RecipesProject\BLL\obj\Debug\net7.0\refint\BLL.dll
+D:\RecipesProject\BLL\obj\Debug\net7.0\BLL.pdb
+D:\RecipesProject\BLL\obj\Debug\net7.0\ref\BLL.dll
