@@ -1,0 +1,25 @@
+.ShowOneRecipe{
+    width: 70%;
+    margin: auto;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+
+}
+.ShowPicToOneRecipe{
+    width: 60%;
+    height: 600px;
+}
+.Preparation{
+    text-align: right;
+    margin-left: 70px;
+}
+.LevelAndTime{
+border-top: 1px black dashed;
+border-bottom: 1px black dashed;
+
+}
+.RecipeName{
+    font-size: 40px;
+    color: black;
+}

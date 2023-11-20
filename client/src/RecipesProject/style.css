@@ -1,0 +1,21 @@
+
+*{
+margin:auto;
+}
+.nav{
+    background-color: rgba(0, 255, 200, 0.536);
+    font-size: 25px;
+    width: 100vw;
+    height: 60px;
+    justify-content: center;
+    padding: 20px;
+    }
+    .link{
+        padding: 20px;
+        text-decoration: none;
+        color: black;
+    }
+    /* .recipesImg{
+        width:200px;
+        height: 200px;
+    } */
