@@ -1,0 +1,42 @@
+C:\Users\הילה לויטן\Documents\c#\Recipe\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\Users\הילה לויטן\Documents\c#\Recipe\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\הילה לויטן\Documents\c#\Recipe\DAL\bin\Debug\net7.0\DAL.dll
+C:\Users\הילה לויטן\Documents\c#\Recipe\DAL\bin\Debug\net7.0\DAL.pdb
+C:\Users\הילה לויטן\Documents\c#\Recipe\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\הילה לויטן\Documents\c#\Recipe\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\הילה לויטן\Documents\c#\Recipe\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\הילה לויטן\Documents\c#\Recipe\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\הילה לויטן\Documents\c#\Recipe\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\הילה לויטן\Documents\c#\Recipe\DAL\obj\Debug\net7.0\DAL.dll
+C:\Users\הילה לויטן\Documents\c#\Recipe\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\הילה לויטן\Documents\c#\Recipe\DAL\obj\Debug\net7.0\DAL.pdb
+C:\Users\הילה לויטן\Documents\c#\Recipe\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\הילה לויטן\Documents\c#\Recipe\DAL\obj\Debug\net7.0\ref\DAL.dll
+E:\RecipesProject\DAL\bin\Debug\net7.0\DAL.deps.json
+E:\RecipesProject\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+E:\RecipesProject\DAL\bin\Debug\net7.0\DAL.dll
+E:\RecipesProject\DAL\bin\Debug\net7.0\DAL.pdb
+E:\RecipesProject\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+E:\RecipesProject\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\RecipesProject\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+E:\RecipesProject\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+E:\RecipesProject\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+E:\RecipesProject\DAL\obj\Debug\net7.0\DAL.dll
+E:\RecipesProject\DAL\obj\Debug\net7.0\refint\DAL.dll
+E:\RecipesProject\DAL\obj\Debug\net7.0\DAL.pdb
+E:\RecipesProject\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+E:\RecipesProject\DAL\obj\Debug\net7.0\ref\DAL.dll
+D:\RecipesProject\DAL\bin\Debug\net7.0\DAL.deps.json
+D:\RecipesProject\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+D:\RecipesProject\DAL\bin\Debug\net7.0\DAL.dll
+D:\RecipesProject\DAL\bin\Debug\net7.0\DAL.pdb
+D:\RecipesProject\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+D:\RecipesProject\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\RecipesProject\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\RecipesProject\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\RecipesProject\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\RecipesProject\DAL\obj\Debug\net7.0\DAL.dll
+D:\RecipesProject\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\RecipesProject\DAL\obj\Debug\net7.0\DAL.pdb
+D:\RecipesProject\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+D:\RecipesProject\DAL\obj\Debug\net7.0\ref\DAL.dll
