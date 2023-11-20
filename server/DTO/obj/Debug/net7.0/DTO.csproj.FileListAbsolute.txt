@@ -1,0 +1,42 @@
+C:\Users\הילה לויטן\Documents\c#\Recipe\DTO\bin\Debug\net7.0\DTO.deps.json
+C:\Users\הילה לויטן\Documents\c#\Recipe\DTO\bin\Debug\net7.0\DTO.dll
+C:\Users\הילה לויטן\Documents\c#\Recipe\DTO\bin\Debug\net7.0\DTO.pdb
+C:\Users\הילה לויטן\Documents\c#\Recipe\DTO\obj\Debug\net7.0\DTO.csproj.AssemblyReference.cache
+C:\Users\הילה לויטן\Documents\c#\Recipe\DTO\obj\Debug\net7.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\הילה לויטן\Documents\c#\Recipe\DTO\obj\Debug\net7.0\DTO.AssemblyInfoInputs.cache
+C:\Users\הילה לויטן\Documents\c#\Recipe\DTO\obj\Debug\net7.0\DTO.AssemblyInfo.cs
+C:\Users\הילה לויטן\Documents\c#\Recipe\DTO\obj\Debug\net7.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\הילה לויטן\Documents\c#\Recipe\DTO\obj\Debug\net7.0\DTO.dll
+C:\Users\הילה לויטן\Documents\c#\Recipe\DTO\obj\Debug\net7.0\refint\DTO.dll
+C:\Users\הילה לויטן\Documents\c#\Recipe\DTO\obj\Debug\net7.0\DTO.pdb
+C:\Users\הילה לויטן\Documents\c#\Recipe\DTO\obj\Debug\net7.0\ref\DTO.dll
+E:\RecipesProject\DTO\bin\Debug\net7.0\DTO.deps.json
+E:\RecipesProject\DTO\bin\Debug\net7.0\DTO.dll
+E:\RecipesProject\DTO\bin\Debug\net7.0\DTO.pdb
+E:\RecipesProject\DTO\obj\Debug\net7.0\DTO.csproj.AssemblyReference.cache
+E:\RecipesProject\DTO\obj\Debug\net7.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+E:\RecipesProject\DTO\obj\Debug\net7.0\DTO.AssemblyInfoInputs.cache
+E:\RecipesProject\DTO\obj\Debug\net7.0\DTO.AssemblyInfo.cs
+E:\RecipesProject\DTO\obj\Debug\net7.0\DTO.csproj.CoreCompileInputs.cache
+E:\RecipesProject\DTO\obj\Debug\net7.0\DTO.dll
+E:\RecipesProject\DTO\obj\Debug\net7.0\refint\DTO.dll
+E:\RecipesProject\DTO\obj\Debug\net7.0\DTO.pdb
+E:\RecipesProject\DTO\obj\Debug\net7.0\ref\DTO.dll
+E:\RecipesProject\DTO\bin\Debug\net7.0\DAL.dll
+E:\RecipesProject\DTO\bin\Debug\net7.0\DAL.pdb
+E:\RecipesProject\DTO\obj\Debug\net7.0\DTO.csproj.CopyComplete
+D:\RecipesProject\DTO\bin\Debug\net7.0\DTO.deps.json
+D:\RecipesProject\DTO\bin\Debug\net7.0\DTO.dll
+D:\RecipesProject\DTO\bin\Debug\net7.0\DTO.pdb
+D:\RecipesProject\DTO\bin\Debug\net7.0\DAL.dll
+D:\RecipesProject\DTO\bin\Debug\net7.0\DAL.pdb
+D:\RecipesProject\DTO\obj\Debug\net7.0\DTO.csproj.AssemblyReference.cache
+D:\RecipesProject\DTO\obj\Debug\net7.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\RecipesProject\DTO\obj\Debug\net7.0\DTO.AssemblyInfoInputs.cache
+D:\RecipesProject\DTO\obj\Debug\net7.0\DTO.AssemblyInfo.cs
+D:\RecipesProject\DTO\obj\Debug\net7.0\DTO.csproj.CoreCompileInputs.cache
+D:\RecipesProject\DTO\obj\Debug\net7.0\DTO.csproj.CopyComplete
+D:\RecipesProject\DTO\obj\Debug\net7.0\DTO.dll
+D:\RecipesProject\DTO\obj\Debug\net7.0\refint\DTO.dll
+D:\RecipesProject\DTO\obj\Debug\net7.0\DTO.pdb
+D:\RecipesProject\DTO\obj\Debug\net7.0\ref\DTO.dll
